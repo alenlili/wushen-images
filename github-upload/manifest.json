@@ -1,0 +1,159 @@
+{
+  "version": 1,
+  "format": "webp",
+  "quality": 82,
+  "characters": {
+    "李月": {
+      "slug": "li-yue",
+      "rounds": {
+        "1": "images/round-1/li-yue.webp",
+        "2": "images/round-2/li-yue.webp",
+        "3": "images/round-3/li-yue.webp"
+      }
+    },
+    "薛霜": {
+      "slug": "xue-shuang",
+      "rounds": {
+        "1": "images/round-1/xue-shuang.webp",
+        "2": "images/round-2/xue-shuang.webp",
+        "3": "images/round-3/xue-shuang.webp"
+      }
+    },
+    "李姗姗": {
+      "slug": "li-shanshan",
+      "rounds": {
+        "1": "images/round-1/li-shanshan.webp",
+        "2": "images/round-2/li-shanshan.webp",
+        "3": "images/round-3/li-shanshan.webp"
+      }
+    },
+    "陈雯": {
+      "slug": "chen-wen",
+      "rounds": {
+        "1": "images/round-1/chen-wen.webp",
+        "2": "images/round-2/chen-wen.webp",
+        "3": "images/round-3/chen-wen.webp"
+      }
+    },
+    "周琳": {
+      "slug": "zhou-lin",
+      "rounds": {
+        "1": "images/round-1/zhou-lin.webp",
+        "2": "images/round-2/zhou-lin.webp",
+        "3": "images/round-3/zhou-lin.webp"
+      }
+    },
+    "白露": {
+      "slug": "bai-lu",
+      "rounds": {
+        "1": "images/round-1/bai-lu.webp",
+        "2": "images/round-2/bai-lu.webp",
+        "3": "images/round-3/bai-lu.webp"
+      }
+    },
+    "苏晴": {
+      "slug": "su-qing",
+      "rounds": {
+        "1": "images/round-1/su-qing.webp",
+        "2": "images/round-2/su-qing.webp",
+        "3": "images/round-3/su-qing.webp"
+      }
+    },
+    "萧红鸾": {
+      "slug": "xiao-hongluan",
+      "rounds": {
+        "1": "images/round-1/xiao-hongluan.webp",
+        "2": "images/round-2/xiao-hongluan.webp",
+        "3": "images/round-3/xiao-hongluan.webp"
+      }
+    },
+    "神宫真姬": {
+      "slug": "shengong-zhenji",
+      "rounds": {
+        "1": "images/round-1/shengong-zhenji.webp",
+        "2": "images/round-2/shengong-zhenji.webp",
+        "3": "images/round-3/shengong-zhenji.webp"
+      }
+    },
+    "方清雪": {
+      "slug": "fang-qingxue",
+      "rounds": {
+        "1": "images/round-1/fang-qingxue.webp",
+        "2": "images/round-2/fang-qingxue.webp",
+        "3": "images/round-3/fang-qingxue.webp"
+      }
+    },
+    "伊芙": {
+      "slug": "yi-fu",
+      "rounds": {
+        "1": "images/round-1/yi-fu.webp",
+        "2": "images/round-2/yi-fu.webp",
+        "3": "images/round-3/yi-fu.webp"
+      }
+    },
+    "拉娜·里维尔": {
+      "slug": "lana-liweier",
+      "rounds": {
+        "1": "images/round-1/lana-liweier.webp",
+        "2": "images/round-2/lana-liweier.webp",
+        "3": "images/round-3/lana-liweier.webp"
+      }
+    },
+    "卡婕琳娜·沃茨": {
+      "slug": "katerina-watts",
+      "rounds": {
+        "1": "images/round-1/katerina-watts.webp",
+        "2": "images/round-2/katerina-watts.webp",
+        "3": "images/round-3/katerina-watts.webp"
+      }
+    },
+    "斯韦特兰娜": {
+      "slug": "svetlana",
+      "rounds": {
+        "1": "images/round-1/svetlana.webp",
+        "2": "images/round-2/svetlana.webp",
+        "3": "images/round-3/svetlana.webp"
+      }
+    },
+    "白鸦": {
+      "slug": "bai-ya",
+      "rounds": {
+        "1": "images/round-1/bai-ya.webp",
+        "2": "images/round-2/bai-ya.webp",
+        "3": "images/round-3/bai-ya.webp"
+      }
+    },
+    "妮娜": {
+      "slug": "nina",
+      "rounds": {
+        "1": "images/round-1/nina.webp",
+        "2": "images/round-2/nina.webp",
+        "3": "images/round-3/nina.webp"
+      }
+    },
+    "欧罗巴": {
+      "slug": "europa",
+      "rounds": {
+        "1": "images/round-1/europa.webp",
+        "2": "images/round-2/europa.webp",
+        "3": "images/round-3/europa.webp"
+      }
+    },
+    "莫影": {
+      "slug": "mo-ying",
+      "rounds": {
+        "1": "images/round-1/mo-ying.webp",
+        "2": "images/round-2/mo-ying.webp",
+        "3": "images/round-3/mo-ying.webp"
+      }
+    },
+    "卫灵": {
+      "slug": "wei-ling",
+      "rounds": {
+        "1": "images/round-1/wei-ling.webp",
+        "2": "images/round-2/wei-ling.webp",
+        "3": "images/round-3/wei-ling.webp"
+      }
+    }
+  }
+}
